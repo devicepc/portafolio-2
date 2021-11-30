@@ -564,6 +564,10 @@ footer .creado-por a:hover {text-decoration: underline;}
   float: left;
   margin-left: 30%;
 }
+#letrademeirda{ 
+  font-size: 14px;
+  margin-top: -5px;
+}
 .icontec{
   width: 100px;
   height: 200px;
@@ -841,3 +845,4 @@ footer .creado-por a:hover {text-decoration: underline;}
   }
   
 }
+
